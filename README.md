@@ -1,4 +1,4 @@
-# *DParis 2024 Olympic Summer Games Data Visualization ProjectT*
+# *Paris 2024 Olympic Summer Games Data Visualization Project*
 
 This repository contains the final group project presentation and associated materials for the Paris 2024 Olympic Summer Games data visualization project. The project was completed as part of the DATA 230: Data Visualization course at San José State University's Department of Applied Data Science.
 
