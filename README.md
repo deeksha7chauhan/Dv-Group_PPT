@@ -16,51 +16,75 @@ The dataset used in this project offers various insights into the Paris 2024 Oly
 ---
 
 # *Data source*
+
 •⁠ Paris 2024 Olympic Summer Games Dataset on Kaggle
 
 ---
 
 # *Business Problem Objective*
 The main objective is to create a comprehensive dashboard that provides:
+
 •⁠ Visualization of trends in sports, athletes, and audience preferences
+
 •⁠ Support for stakeholders in making data-driven decisions
+
 •⁠ Insights for effective advertising strategies and sponsorship placements
+
 •⁠ Tools for enhancing audience engagement
 
 ---
 
 # *Key Features*
+
 •⁠ Athlete Analysis: Distributions of age, gender, and country participation
+
 •⁠ Country Performance: Medal tallies and performance metrics
+
 •⁠ Event Popularity: Identification of top events by participation rates
+
 •⁠ Geographic Insights: Maps of venues and medal distributions
+
 •⁠ Predictive Analytics: Forecasts for event popularity, medal chances, and attendance
+
 
 ---
 
 
 # *Technologies Used*
+
 •⁠ Python
+
 •⁠ Pandas
+
 •⁠ NumPy
+
 •⁠ Matplotlib
+
 •⁠ Seaborn
+
 •⁠ Plotly
 
 ---
 
-Repository Structure
+# *Repository Structure*
+
 •⁠ Paris_Olympic_Project.pbix: PowerBi Dashboard file for the Paris 2024 Olympic Summer Games
+
 •⁠ paris-eda.ipynb: Jupyter notebook containing Exploratory Data Analysis Code
+
 •⁠ archive folder: Contains images, dataset csv files and all the required files for the project.
 
 ---
 
-## Contact
+## *Contact*
 
-Created by:
+*Created by:*
+
 •⁠  ⁠*Nikhil Swami* ([nikhil.swami@sjsu.edu](mailto:nikhil.swami@sjsu.edu))
+
 •⁠  ⁠*Deeksha Chauhan* ([deeksha.chauhan@sjsu.edu](mailto:deeksha.chauhan@sjsu.edu))
+
 •⁠  *Shweta Shinde* ([shweta.shinde@sjsu.edu](mailto:shweta.shinde@sjsu.edu))
+
 •⁠  *Gayatri Patil* ([gayatribhaskar.patil@sjsu.edu](mailto:gayatribhaskar.patil@sjsu.edu))
 
