@@ -6,8 +6,11 @@ This repository contains the final group project presentation and associated mat
 
 # *Dataset Description*
 The dataset used in this project offers various insights into the Paris 2024 Olympic Summer Games, including:
+
 •⁠ Athletes & Teams: Information on participants and their countries' performances
-E•⁠ vents & Disciplines: Details about sports, events, and the games calendar
+
+•⁠ Events & Disciplines: Details about sports, events, and the games calendar
+
 •⁠ Medals: Medal tallies for comparison across countries and events
 
 ---
