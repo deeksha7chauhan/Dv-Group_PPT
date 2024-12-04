@@ -52,6 +52,8 @@ The main objective is to create a comprehensive dashboard that provides:
 
 # *Technologies Used*
 
+•⁠ PoweBi
+
 •⁠ Python
 
 •⁠ Pandas
@@ -75,6 +77,13 @@ The main objective is to create a comprehensive dashboard that provides:
 •⁠ archive folder: Contains images, dataset csv files and all the required files for the project.
 
 ---
+
+# *Link to the PowerBi Dashboard*
+
+https://app.powerbi.com/groups/me/reports/23520c2e-0382-4930-9b1b-1e652ee7e9c1/2d44a74979a02157d0d8?experience=power-bi
+
+---
+
 
 ## *Contact*
 
